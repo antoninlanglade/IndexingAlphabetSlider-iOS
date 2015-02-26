@@ -1,8 +1,5 @@
 //
-//  OPIAlphabetView.h
-//  SimpleTableView
-//
-//  Created by Antonin Langlade [DAN-PARIS] on 25/02/2015.
+//  Created by Antonin Langlade on 25/02/2015.
 //  Copyright (c) 2015 Apple Inc. All rights reserved.
 //
 
