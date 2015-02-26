@@ -15,9 +15,9 @@ This class allows to add an alphabet slider to your TableView or CollectionView 
     alphabetView.delegate = self;
     [aView addSubview:alphabetView];
 ```
-2. 
-- anArrayOfItems is an array that contains the items list sort by the first character ( Ex : [@"Alice Ung",@"Bob Lint",@"John Doe"])
-- aView is the parent which we attach this view.
+
+2. anArrayOfItems is an array that contains the items list sort by the first character ( Ex : [@"Alice Ung",@"Bob Lint",@"John Doe"])
+3. aView is the parent which we attach this view.
 
 ### Delegation & Movement
 
