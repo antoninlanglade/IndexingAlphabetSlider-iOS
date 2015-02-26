@@ -1,6 +1,7 @@
 Indexing Alphabet Slider iOS
 ============================
 
+![Demo](https://github.com/antoninlanglade/IndexingAlphabetSlider-iOS/blob/master/demo.gif)
 
 ### Overview
 
